@@ -3,7 +3,7 @@ This is a little bit of a different bot than the ones I've previously made, in t
 
 How to set it up:
 
-Firstly, you're going to want to have a server running, unless you just want to set this up and run it one time just to see how it goes. And then, firstly, you'll want to create a new environment for the bot, because you shouldn't just live in open deadspace (it's scary out there).
+Firstly, you're going to want to have a server running, unless you just want to set this up and run it one time just to see how it goes. And then, you'll want to create a new environment for the bot, because you shouldn't just live in open deadspace (it's scary out there).
 
 ```
 python3 -m venv post-gen-env
