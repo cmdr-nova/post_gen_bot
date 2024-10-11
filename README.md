@@ -35,7 +35,7 @@ Open the door
 ```
 cd creds
 ```
-Copy/paste the name of your Google API credentials .json and then
+Copy/paste the name of your Google API credentials .json
 ```
 nano name_of_your_cred_file.json
 ```
